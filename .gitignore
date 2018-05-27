@@ -3,3 +3,12 @@
 ################################################################################
 
 *.config
+*.dtbcache
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.dll
+*.pdb
+*.cache
+*.CopyComplete
