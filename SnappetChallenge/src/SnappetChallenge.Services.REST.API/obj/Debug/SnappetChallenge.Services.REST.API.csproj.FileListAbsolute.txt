@@ -78,10 +78,12 @@ C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.A
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\System.Web.WebPages.Razor.dll
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\WebGrease.dll
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Infra.Data.dll
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\TinyMapper.dll
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Domain.Core.dll
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\FluentValidation.dll
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SimpleInjector.dll
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\EntityFramework.dll
-C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\FluentValidation.dll
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Infra.CrossCutting.DTO.dll
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Application.pdb
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Domain.pdb
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Infra.CrossCutting.IoC.pdb
@@ -107,9 +109,10 @@ C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.A
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Infra.Data.pdb
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Infra.Data.dll.config
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Domain.Core.pdb
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\FluentValidation.xml
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SimpleInjector.xml
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\EntityFramework.xml
-C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\FluentValidation.xml
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\bin\SnappetChallenge.Infra.CrossCutting.DTO.pdb
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\obj\Debug\SnappetChallenge.Services.REST.API.csprojAssemblyReference.cache
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\obj\Debug\SnappetChallenge.Services.REST.API.csproj.CoreCompileInputs.cache
 C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Services.REST.API\obj\Debug\SnappetChallenge.Services.REST.API.csproj.CopyComplete

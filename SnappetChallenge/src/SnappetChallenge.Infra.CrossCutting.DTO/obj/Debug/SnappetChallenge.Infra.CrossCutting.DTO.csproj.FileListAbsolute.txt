@@ -1,0 +1,5 @@
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Infra.CrossCutting.DTO\bin\Debug\SnappetChallenge.Infra.CrossCutting.DTO.dll
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Infra.CrossCutting.DTO\bin\Debug\SnappetChallenge.Infra.CrossCutting.DTO.pdb
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Infra.CrossCutting.DTO\obj\Debug\SnappetChallenge.Infra.CrossCutting.DTO.csproj.CoreCompileInputs.cache
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Infra.CrossCutting.DTO\obj\Debug\SnappetChallenge.Infra.CrossCutting.DTO.dll
+C:\GitHub\SnappetChallenge\SnappetChallenge\src\SnappetChallenge.Infra.CrossCutting.DTO\obj\Debug\SnappetChallenge.Infra.CrossCutting.DTO.pdb

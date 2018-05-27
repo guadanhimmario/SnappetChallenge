@@ -1,4 +1,5 @@
-﻿using SnappetChallenge.Infra.Data.Interfaces;
+﻿using SnappetChallenge.Application.Mappers;
+using SnappetChallenge.Infra.Data.Interfaces;
 
 namespace SnappetChallenge.Application
 {
@@ -9,6 +10,7 @@ namespace SnappetChallenge.Application
         public ApplicationService(IUnitOfWork uow)
         {
             _uow = uow;
+            DomainToViewModelMappingProfile.Init();
         }
 
         public void BeginTransaction()

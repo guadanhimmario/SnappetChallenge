@@ -75,12 +75,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\SubmittedAnswer.cs" />
+    <Compile Include="Interfaces\Repository\IRepository.cs" />
+    <Compile Include="Interfaces\Repository\ISubmittedAnswerRepository.cs" />
+    <Compile Include="Interfaces\Service\ISubmittedAnswerService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\SubmittedAnswerService.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\SnappetChallenge.Domain.Core\SnappetChallenge.Domain.Core.csproj">
       <Project>{53A22C4E-439B-428D-B8DF-7693AC24FD71}</Project>

@@ -1,9 +1,7 @@
-﻿using SnappetChallenge.Domain.Core.Models;
+﻿using FluentValidation;
+using FluentValidation.Results;
+using SnappetChallenge.Domain.Core.Models;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SnappetChallenge.Domain.Entities
 {
@@ -22,7 +20,22 @@ namespace SnappetChallenge.Domain.Entities
 
         public override bool isValid()
         {
-            throw new NotImplementedException();
+            RuleFor(c => c.SubmittedAnswerId)
+                .GreaterThan(0)
+                .WithMessage("Please, Inform the Id");
+
+            RuleFor(c => c.Subject)
+            .NotEmpty().WithMessage("Please, insert a subject")
+            .Length(1, 50).WithMessage("The subject must be between 1 and 50 characters");
+
+            //This one won't go to production, just humor
+            RuleFor(c => c.SubmitDateTime)
+               .GreaterThan(DateTime.Now)
+               .WithMessage("Your students are not Marty McFly, right?");
+
+            ValidationResult = Validate(this);
+
+            return ValidationResult.IsValid;
         }
     }
 }
